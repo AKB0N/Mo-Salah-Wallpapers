@@ -1,0 +1,34 @@
+{
+  "Collections": [
+  ],
+  "Wallpapers": [
+    {
+      "name": "ShotA",
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/ibrahim1973/Mo-Salah-Wallpapers/master/Wallpapers/1.jpg",
+      "collections": "featured,landscapes,people",
+      "downloadable": false
+    },
+        {
+      "name": "ShotA",
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/ibrahim1973/Mo-Salah-Wallpapers/master/Wallpapers/2.jpg",
+      "collections": "featured,landscapes,people",
+      "downloadable": false
+    },
+        {
+      "name": "ShotA",
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/ibrahim1973/Mo-Salah-Wallpapers/master/Wallpapers/3.jpg",
+      "collections": "featured,landscapes,people",
+      "downloadable": false
+    },
+        {
+      "name": "ShotA",
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/ibrahim1973/Mo-Salah-Wallpapers/master/Wallpapers/4.jpg",
+      "collections": "featured,landscapes,people",
+      "downloadable": false
+    }
+  ]
+}
