@@ -73,14 +73,14 @@
       "name": "11",
       "author": "Pixel Team",
       "url": "https://akbon.imgix.net/bloom/11.png",
-      "thumbUrl": "https://akbon.imgix.net/bloom/10.png?ixlib=rb-1.2.1&q=80&w=200",
+      "thumbUrl": "https://akbon.imgix.net/bloom/11.png?ixlib=rb-1.2.1&q=80&w=200",
       "downloadable": true
     },
     {
       "name": "12",
       "author": "Pixel Team",
       "url": "https://akbon.imgix.net/bloom/12.png",
-      "thumbUrl": "https://akbon.imgix.net/bloom/10.png?ixlib=rb-1.2.1&q=80&w=200",
+      "thumbUrl": "https://akbon.imgix.net/bloom/12.png?ixlib=rb-1.2.1&q=80&w=200",
       "downloadable": true
     }
   ]
