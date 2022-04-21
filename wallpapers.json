@@ -13767,7 +13767,6 @@
       "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Amoled/Dropbox/marshmello-dark-minimal-5k-81-1080x2160.jpg?dl=0",
       "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Amoled/Dropbox/marshmello-dark-minimal-5k-81-1080x2160-small.png?dl=0"
     },
-   
     {
       "heroID": "Amoled86",
       "name": "Amoled 75",
@@ -21594,56 +21593,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/marshmello-dark-5k-qx-1080x2280-small.png?dl=0"
     },
     {
-      "id": 101,
-      "heroID": "Minimal101",
-      "downloads": 0,
-      "name": "Fox Howl",
-      "designer": "Buffy",
-      "size": "284KB",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/fox-howl-minimal-4k-a7-1080x2280.jpg?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/fox-howl-minimal-4k-a7-1080x2280-small.png?dl=0"
-    },
-    {
-      "id": 100,
-      "heroID": "Minimal100",
-      "downloads": 0,
-      "name": "Cool Morning",
-      "designer": "Buffy",
-      "size": "707KB",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/cool-morning-tranquility-5k-nj-1080x2280.jpg?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/cool-morning-tranquility-5k-nj-1080x2280-small.png?dl=0"
-    },
-    {
-      "id": 99,
-      "heroID": "Minimal99",
-      "downloads": 0,
-      "name": "Bridge Sunset",
-      "designer": "Buffy",
-      "size": "707KB",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/bridge-sunset-minimal-4k-nq-1080x2280.jpg?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/bridge-sunset-minimal-4k-nq-1080x2280-small.png?dl=0"
-    },
-    {
-      "id": 98,
-      "heroID": "Minimal98",
-      "downloads": 0,
-      "name": "Boat Moon",
-      "designer": "Buffy",
-      "size": "1.26MB",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/boat-moon-minimal-landscape-5k-3f-1080x2280.jpg?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/boat-moon-minimal-landscape-5k-3f-1080x2280-small.png?dl=0"
-    },
-    {
-      "id": 97,
-      "heroID": "Minimal97",
-      "downloads": 0,
-      "name": "Beautiful Land",
-      "designer": "Buffy",
-      "size": "276KB",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/beautiful-landscape-minimal-4k-fa-1080x2280.jpg?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/beautiful-landscape-minimal-4k-fa-1080x2280-small.png?dl=0"
-    },
-    {
       "id": 96,
       "heroID": "Minimal96",
       "downloads": 0,
@@ -21692,26 +21641,6 @@
       "size": "7.1Mb",
       "url": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20(3).jpg",
       "thumbUrl": "https://github.com/piyushkpv/Minimal/raw/main/Minimal%20Resize%20(5).jpg"
-    },
-    {
-      "id": 91,
-      "heroID": "Minimal91",
-      "downloads": 0,
-      "name": "WOlf Howling",
-      "designer": "BUffy",
-      "size": "1.43MB",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/wolf-howling-moon-night-minimal-5k-57-1080x2280.jpg?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/wolf-howling-moon-night-minimal-5k-57-1080x2280-small.png?dl=0"
-    },
-    {
-      "id": 90,
-      "heroID": "Minimal90",
-      "downloads": 0,
-      "name": "Superman minimal",
-      "designer": "Buffy",
-      "size": "553KB",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/superman-minimal-illustration-5k-39-1080x2160.jpg?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Minimal/Dropbox/superman-minimal-illustration-5k-39-1080x2160-small.png?dl=0"
     },
     {
       "id": 89,
