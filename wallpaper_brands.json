@@ -2085,6 +2085,7 @@
     {
       "name": "Google Pixel 4A",
       "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Google/Dropbox/Google%20Pixel%204a41571010100.png?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Google/Dropbox/Google%20Pixel%204a41571010100.png?dl=0",
       "downloads": 2,
       "designer": "Google",
       "id": 44,
@@ -3123,6 +3124,7 @@
       "name": "Huawei Nova 5",
       "id": 6,
       "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205.jpg?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205.jpg?dl=0",
       "size": "1.7Mb",
       "heroID": "Huawei6",
       "__collections__": {}
@@ -3130,6 +3132,7 @@
     {
       "name": "Huawei Nova 5",
       "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205%20%285%29.jpg?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205%20%285%29.jpg?dl=0",
       "id": 5,
       "downloads": 14,
       "heroID": "Huawei5",
@@ -3142,6 +3145,7 @@
       "downloads": 3,
       "name": "Huawei Nova 5",
       "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205%20%283%29.jpg?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205%20%283%29.jpg?dl=0",
       "id": 4,
       "heroID": "Huawei4",
       "designer": "Huawei",
@@ -3153,6 +3157,7 @@
       "name": "Huawei Nova 5",
       "designer": "Huawei",
       "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205%20%284%29.jpg?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205%20%284%29.jpg?dl=0",
       "downloads": 7,
       "heroID": "Huawei3",
       "__collections__": {}
@@ -3163,6 +3168,7 @@
       "id": 2,
       "name": "Huawei Nova 5",
       "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205%20%282%29.jpg?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205%20%282%29.jpg?dl=0",
       "downloads": 5,
       "heroID": "Huawei2",
       "__collections__": {}
@@ -3174,6 +3180,7 @@
       "heroID": "Huawei1",
       "name": "Huawei Nova 5",
       "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205%20%281%29.jpg?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Huawei/Dropbox/Nova%205%20%281%29.jpg?dl=0",
       "designer": "Huawei",
       "__collections__": {}
     }
@@ -7135,11 +7142,13 @@
       "designer": "Xiaomi",
       "id": 2,
       "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Xiaomi/Dropbox/Redmi%2010X.jpg?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Xiaomi/Dropbox/Redmi%2010X.jpg?dl=0",
       "__collections__": {}
     },
     {
       "downloads": 6,
       "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Xiaomi/Dropbox/Redmi%2010X%204G.jpg?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Xiaomi/Dropbox/Redmi%2010X%204G.jpg?dl=0",
       "id": 1,
       "designer": "Xiaomi",
       "name": "Redmi 10X 4G",
