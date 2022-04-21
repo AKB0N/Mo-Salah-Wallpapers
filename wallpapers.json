@@ -756,6 +756,536 @@
   ],
   "iOS": [
     {
+      "id": 49,
+      "heroID": "Apple49",
+      "downloads": 0,
+      "name": "iPhone 13 pro max",
+      "designer": "Apple",
+      "size": "271KB",
+      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/9.png",
+      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/9-small.png"
+    },
+    {
+      "id": 48,
+      "heroID": "Apple48",
+      "downloads": 0,
+      "name": "iPhone 13 pro max",
+      "designer": "Apple",
+      "size": "564KB",
+      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/8.png",
+      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/8-small.png"
+    },
+    {
+      "id": 47,
+      "heroID": "Apple47",
+      "downloads": 0,
+      "name": "iPhone 13 pro max",
+      "designer": "Apple",
+      "size": "39KB",
+      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/7.jpg",
+      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/7-small.png"
+    },
+    {
+      "id": 46,
+      "heroID": "Apple46",
+      "downloads": 0,
+      "name": "iPhone 13 pro max",
+      "designer": "Apple",
+      "size": "48KB",
+      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/6.jpg",
+      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/6-small.png"
+    },
+    {
+      "id": 45,
+      "heroID": "Apple45",
+      "downloads": 0,
+      "name": "iPhone 13 pro max",
+      "designer": "Apple",
+      "size": "802KB",
+      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/5.png",
+      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/5-small.png"
+    },
+    {
+      "id": 44,
+      "heroID": "Apple44",
+      "downloads": 0,
+      "name": "iPhone 13 pro max",
+      "designer": "Apple",
+      "size": "835KB",
+      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/4.png",
+      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/4-small.png"
+    },
+    {
+      "id": 43,
+      "heroID": "Apple43",
+      "downloads": 0,
+      "name": "iPhone 13 pro max",
+      "designer": "Apple",
+      "size": "797KB",
+      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/3.png",
+      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/3-small.png"
+    },
+    {
+      "id": 42,
+      "heroID": "Apple42",
+      "downloads": 0,
+      "name": "iPhone 13 pro max",
+      "designer": "Apple",
+      "size": "926KB",
+      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/2.png",
+      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/2-small.png"
+    },
+    {
+      "id": 41,
+      "heroID": "Apple41",
+      "downloads": 0,
+      "name": "iPhone 13 pro max",
+      "designer": "Apple",
+      "size": "891KB",
+      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/1.png",
+      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/1-small.png"
+    },
+    {
+      "size": "5.7Mb",
+      "downloads": 25,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/1_resize_45.jpg?dl=0",
+      "name": "iOS 14",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/1.png?dl=0",
+      "heroID": "Apple40",
+      "designer": "Apple",
+      "id": 40,
+      "__collections__": {}
+    },
+    {
+      "size": "5.4Mb",
+      "designer": "Apple",
+      "downloads": 22,
+      "heroID": "Apple39",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/2.png?dl=0",
+      "id": 39,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/2_resize_52.jpg?dl=0",
+      "name": "iOS 14",
+      "__collections__": {}
+    },
+    {
+      "name": "iOS 14",
+      "heroID": "Apple38",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/3.png?dl=0",
+      "downloads": 21,
+      "id": 38,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/3_resize_59.jpg?dl=0",
+      "size": "5.3",
+      "designer": "Apple",
+      "__collections__": {}
+    },
+    {
+      "name": "iOS 14",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/4.png?dl=0",
+      "downloads": 10,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/4_resize_58.jpg?dl=0",
+      "heroID": "Apple37",
+      "size": "5.7Mb",
+      "designer": "Apple",
+      "id": 37,
+      "__collections__": {}
+    },
+    {
+      "designer": "Apple",
+      "id": 36,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/5_resize_10.jpg?dl=0",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/5.png?dl=0",
+      "heroID": "Apple36",
+      "size": "5.3Mb",
+      "downloads": 16,
+      "name": "iOS 14",
+      "__collections__": {}
+    },
+    {
+      "downloads": 9,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/6_resize_36.jpg?dl=0",
+      "heroID": "Apple35",
+      "designer": "Apple",
+      "name": "iOS 14",
+      "id": 35,
+      "size": "5.3Mb",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/6.png?dl=0",
+      "__collections__": {}
+    },
+    {
+      "downloads": 18,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042421010100_resize_45.jpg?dl=0",
+      "size": "1.0Mb",
+      "name": "iPad Pro 2020",
+      "id": 34,
+      "designer": "Apple",
+      "heroID": "Apple34",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042421010100.png?dl=0",
+      "__collections__": {}
+    },
+    {
+      "size": "4.8Mb",
+      "name": "iPad Pro 2020",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042461010100_resize_26.jpg?dl=0",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042461010100.png?dl=0",
+      "designer": "Apple",
+      "downloads": 13,
+      "id": 33,
+      "heroID": "Apple33",
+      "__collections__": {}
+    },
+    {
+      "id": 32,
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042441010100.png?dl=0",
+      "heroID": "Apple32",
+      "name": "iPad Pro 2020",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042441010100_resize_24.jpg?dl=0",
+      "size": "4.6Mb",
+      "downloads": 6,
+      "designer": "Apple",
+      "__collections__": {}
+    },
+    {
+      "name": "iPad Pro 2020",
+      "downloads": 5,
+      "size": "5.3Mb",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042431010100.png?dl=0",
+      "designer": "Apple",
+      "id": 31,
+      "heroID": "Apple31",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042431010100_resize_32.jpg?dl=0",
+      "__collections__": {}
+    },
+    {
+      "size": "5.6Mb",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042451010100.png?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042451010100_resize_59.jpg?dl=0",
+      "downloads": 5,
+      "heroID": "Apple30",
+      "name": "iPad Pro 2020",
+      "designer": "Apple",
+      "id": 30,
+      "__collections__": {}
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XS16601010100_resize_29.jpg?dl=0",
+      "heroID": "Apple29",
+      "downloads": 11,
+      "id": 29,
+      "designer": "Apple",
+      "size": "3.7Mb",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XS16601010100.png?dl=0",
+      "name": "iPhone 11,11Pro",
+      "__collections__": {}
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XS16591010100_resize_93.jpg?dl=0",
+      "downloads": 7,
+      "id": 28,
+      "heroID": "Apple28",
+      "size": "3.4Mb",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XS16591010100.png?dl=0",
+      "designer": "Apple",
+      "name": "iPhone 11,11 Pro",
+      "__collections__": {}
+    },
+    {
+      "designer": "Apple",
+      "name": "iPhone 11,11Pro",
+      "id": 27,
+      "downloads": 3,
+      "heroID": "Apple27",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20Xs20051010100_resize_4.jpg?dl=0",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20Xs20051010100.png?dl=0",
+      "size": "2.5Mb",
+      "__collections__": {}
+    },
+    {
+      "name": "iPhone XR",
+      "downloads": 6,
+      "id": 26,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16561010100_resize_8.jpg?dl=0",
+      "heroID": "Apple26",
+      "size": "1.5Mb",
+      "designer": "Apple",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16561010100.png?dl=0",
+      "__collections__": {}
+    },
+    {
+      "id": 25,
+      "name": "iPhone XR",
+      "heroID": "Apple25",
+      "downloads": 4,
+      "designer": "Apple",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16571010100.png?dl=0",
+      "size": "1.5Mb",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16571010100_resize_47.jpg?dl=0",
+      "__collections__": {}
+    },
+    {
+      "size": "1.5Mb",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16581010100.png?dl=0",
+      "heroID": "Apple24",
+      "designer": "Apple",
+      "id": 24,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16581010100_resize_33.jpg?dl=0",
+      "downloads": 9,
+      "name": "iPhone XR",
+      "__collections__": {}
+    },
+    {
+      "downloads": 3,
+      "size": "1.4Mb",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16531010100.png?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16531010100_resize_57.jpg?dl=0",
+      "name": "iPhone XR",
+      "id": 23,
+      "heroID": "Apple23",
+      "designer": "Apple",
+      "__collections__": {}
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16541010100.png?dl=0",
+      "heroID": "Apple22",
+      "name": "iPhone XR",
+      "id": 22,
+      "size": "1.4Mb",
+      "designer": "Apple",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16541010100_resize_22.jpg?dl=0",
+      "downloads": 1,
+      "__collections__": {}
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16551010100_resize_37.jpg?dl=0",
+      "downloads": 1,
+      "id": 21,
+      "size": "1.7Mb",
+      "heroID": "Apple21",
+      "designer": "Apple",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16551010100.png?dl=0",
+      "name": "iPhone XR",
+      "__collections__": {}
+    },
+    {
+      "name": "iPhone 10",
+      "id": 20,
+      "size": "3.3Mb",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20X4621010100_resize_21.jpg?dl=0",
+      "designer": "Apple",
+      "heroID": "Apple20",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20X4621010100.png?dl=0",
+      "downloads": 7,
+      "__collections__": {}
+    },
+    {
+      "id": 19,
+      "heroID": "Apple19",
+      "size": "1.3Mb",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20X4631010100_resize_99.jpg?dl=0",
+      "downloads": 6,
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20X4631010100.png?dl=0",
+      "designer": "Apple",
+      "name": "iPhone 10",
+      "__collections__": {}
+    },
+    {
+      "heroID": "Apple18",
+      "downloads": 6,
+      "id": 18,
+      "size": "2.1Mb",
+      "designer": "Apple",
+      "name": "iPhone 10",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102971010100.png?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102971010100_resize_69.jpg?dl=0",
+      "__collections__": {}
+    },
+    {
+      "id": 17,
+      "heroID": "Apple17",
+      "downloads": 4,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102961010100_resize_0.jpg?dl=0",
+      "size": "2.2Mb",
+      "name": "iPhone 10",
+      "designer": "Apple",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102961010100.png?dl=0",
+      "__collections__": {}
+    },
+    {
+      "downloads": 4,
+      "heroID": "Apple16",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102821010100_resize_16.jpg?dl=0",
+      "size": "2.1Mb",
+      "id": 16,
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102821010100.png?dl=0",
+      "designer": "Apple",
+      "name": "iPhone 10",
+      "__collections__": {}
+    },
+    {
+      "designer": "Apple",
+      "downloads": 3,
+      "id": 15,
+      "heroID": "Apple15",
+      "size": "6.1Mb",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102951010100_resize_99.jpg?dl=0",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102951010100.png?dl=0",
+      "name": "iPhone 10",
+      "__collections__": {}
+    },
+    {
+      "designer": "Apple",
+      "size": "4.3Mb",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%208%20plus2921010100.png?dl=0",
+      "name": "iPhone 8,8Plus",
+      "heroID": "Apple14",
+      "downloads": 6,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%208%20plus2921010100_resize_18.jpg?dl=0",
+      "id": 14,
+      "__collections__": {}
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082911010100_resize_9.jpg?dl=0",
+      "heroID": "Apple13",
+      "designer": "Apple",
+      "size": "4.8Mb",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082911010100.png?dl=0",
+      "downloads": 4,
+      "name": "iPhone 8,8Plus",
+      "id": 13,
+      "__collections__": {}
+    },
+    {
+      "size": "5.7Mb",
+      "name": "iPhone 8,8Plus",
+      "id": 12,
+      "designer": "Apple",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082931010100.png?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082931010100_resize_50.jpg?dl=0",
+      "heroID": "Apple12",
+      "downloads": 5,
+      "__collections__": {}
+    },
+    {
+      "designer": "Apple",
+      "name": "iPhone 8,8Plus",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082831010100.png?dl=0",
+      "heroID": "Apple11",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082831010100_resize_76.jpg?dl=0",
+      "downloads": 4,
+      "id": 11,
+      "size": "5.4Mb",
+      "__collections__": {}
+    },
+    {
+      "downloads": 3,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077611010100_resize_89.jpg?dl=0",
+      "heroID": "Apple10",
+      "size": "391Kb",
+      "id": 10,
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077611010100.png?dl=0",
+      "designer": "Apple",
+      "name": "iPhone 7,7Plus",
+      "__collections__": {}
+    },
+    {
+      "downloads": 1,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077601010100_resize_8.jpg?dl=0",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077601010100.png?dl=0",
+      "name": "iPhone 7,7Plus",
+      "heroID": "Apple9",
+      "size": "372Kb",
+      "id": 9,
+      "designer": "Apple",
+      "__collections__": {}
+    },
+    {
+      "size": "390Kb",
+      "id": 8,
+      "heroID": "Apple8",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077591010100.png?dl=0",
+      "downloads": 1,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077591010100_resize_91.jpg?dl=0",
+      "designer": "Apple",
+      "name": "iPhone 7,7Plus",
+      "__collections__": {}
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618551010100_resize_49.jpg?dl=0",
+      "heroID": "Apple7",
+      "name": "iPhone 6,6Plus",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618551010100.png?dl=0",
+      "id": 7,
+      "downloads": 3,
+      "size": "790Kb",
+      "designer": "Apple",
+      "__collections__": {}
+    },
+    {
+      "designer": "Apple",
+      "name": "iPhone 6,6Plus",
+      "id": 6,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618621010100_resize_88.jpg?dl=0",
+      "size": "2.7Mb",
+      "downloads": 7,
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618621010100.png?dl=0",
+      "heroID": "Apple6",
+      "__collections__": {}
+    },
+    {
+      "heroID": "Apple5",
+      "downloads": 4,
+      "size": "1.4Mb",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618591010100.png?dl=0",
+      "name": "iPhone 6,6Plus",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618591010100_resize_96.jpg?dl=0",
+      "id": 5,
+      "designer": "Apple",
+      "__collections__": {}
+    },
+    {
+      "heroID": "Apple4",
+      "id": 4,
+      "name": "iPhone 6,6Plus",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618571010100.png?dl=0",
+      "designer": "Apple",
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618571010100_resize_41.jpg?dl=0",
+      "downloads": 2,
+      "size": "872Kb",
+      "__collections__": {}
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618561010100_resize_70.jpg?dl=0",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618561010100.png?dl=0",
+      "downloads": 4,
+      "id": 3,
+      "size": "1.0Mb",
+      "designer": "Apple",
+      "heroID": "Apple3",
+      "name": "iPhone 6,6Plus",
+      "__collections__": {}
+    },
+    {
+      "downloads": 1,
+      "size": "982Kb",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618521010100.png?dl=0",
+      "name": "iPhone 6,6Plus",
+      "id": 2,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618521010100_resize_40.jpg?dl=0",
+      "heroID": "Apple2",
+      "designer": "Apple",
+      "__collections__": {}
+    },
+    {
+      "size": "832Kb",
+      "downloads": 2,
+      "heroID": "Apple1",
+      "designer": "Apple",
+      "id": 1,
+      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618531010100_resize_10.jpg?dl=0",
+      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618531010100.png?dl=0",
+      "name": "iPhone 6,6Plus",
+      "__collections__": {}
+    },
+    {
       "name": "70",
       "author": "Apple iOS Team",
       "url": "https://akbon.imgix.net/ios/70.png",
@@ -5917,914 +6447,6 @@
       "author": "XOS Team",
       "url": "https://akbon.imgix.net/xos/50.png",
       "thumbUrl": "https://akbon.imgix.net/xos/50.png?ixlib=rb-1.2.1&q=80&w=200"
-    }
-  ],
-  "Android": [
-    {
-      "id": 34,
-      "heroID": "Android34",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%2011%20Default%20Wallpaper.png?dl=0",
-      "designer": "Android",
-      "downloads": 25,
-      "name": "Android 11",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%2011%20Default%20Wallpaper.png?dl=0",
-      "size": "2.7Mb",
-      "__collections__": {}
-    },
-    {
-      "designer": "Android",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%201032531010100.png?dl=0",
-      "heroID": "Android33",
-      "downloads": 9,
-      "name": "Android 10",
-      "size": "342.8Kb",
-      "id": 33,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%2010_resize_4.jpg?dl=0",
-      "__collections__": {}
-    },
-    {
-      "designer": "Android",
-      "size": "312.4Kb",
-      "id": 32,
-      "heroID": "Android32",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%2010-1_resize_62.jpg?dl=0",
-      "name": "Android 10",
-      "downloads": 2,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%201032511010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%2010-2_resize_89.jpg?dl=0",
-      "downloads": 6,
-      "heroID": "Android31",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%201032541010100.png?dl=0",
-      "name": "Android 10",
-      "size": "342.1Kb",
-      "id": 31,
-      "designer": "Android",
-      "__collections__": {}
-    },
-    {
-      "downloads": 1,
-      "id": 30,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%201032491010100.png?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%2010-3_resize_30.jpg?dl=0",
-      "heroID": "Android30",
-      "size": "348.4Kb",
-      "name": "Android 10",
-      "designer": "Android",
-      "__collections__": {}
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%201032521010100.png?dl=0",
-      "id": 29,
-      "size": "169.4Kb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%2010-4_resize_0.jpg?dl=0",
-      "designer": "Android",
-      "name": "Android 10",
-      "downloads": 2,
-      "heroID": "Android29",
-      "__collections__": {}
-    },
-    {
-      "name": "Android 10",
-      "downloads": 2,
-      "id": 28,
-      "heroID": "Android28",
-      "size": "326.5Kb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%2010-5_resize_28.jpg?dl=0",
-      "designer": "Android",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%201032551010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%201032561010100.png?dl=0",
-      "size": "326.8Kb",
-      "designer": "Android",
-      "id": 27,
-      "downloads": 3,
-      "name": "Android 10",
-      "heroID": "Android27",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%2010-6_resize_53.jpg?dl=0",
-      "__collections__": {}
-    },
-    {
-      "id": 26,
-      "name": "Android 10",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%2010-7_resize_19.jpg?dl=0",
-      "downloads": 2,
-      "designer": "Android",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%201032481010100.png?dl=0",
-      "heroID": "Android26",
-      "size": "172Kb",
-      "__collections__": {}
-    },
-    {
-      "size": "147.5Kb",
-      "name": "Android 10",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%2010-8_resize_54.jpg?dl=0",
-      "id": 25,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%201032501010100.png?dl=0",
-      "heroID": "Android25",
-      "designer": "Android",
-      "downloads": 10,
-      "__collections__": {}
-    },
-    {
-      "heroID": "Android24",
-      "designer": "Android",
-      "name": "Android P (Pie)",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20P%20%28Pie%29-1_resize_98.jpg?dl=0",
-      "id": 24,
-      "size": "1.1Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/android-p-wallpaper-13.png?dl=0",
-      "downloads": 3,
-      "__collections__": {}
-    },
-    {
-      "downloads": 5,
-      "designer": "Android",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20P13451010100.png?dl=0",
-      "name": "Android P (Pie)",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20P%20%28Pie%29-2_resize_57.jpg?dl=0",
-      "heroID": "Android23",
-      "size": "2.0Mb",
-      "id": 23,
-      "__collections__": {}
-    },
-    {
-      "id": 22,
-      "size": "580Kb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20P%20%28Pie%29_resize_60.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/ispazio-47.jpg?dl=0",
-      "downloads": 6,
-      "name": "Android P (Pie)",
-      "heroID": "Android22",
-      "designer": "Android",
-      "__collections__": {}
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Oreo5111010100.png?dl=0",
-      "id": 21,
-      "downloads": 2,
-      "heroID": "Android21",
-      "designer": "Android",
-      "size": "4.6Mb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Oreo-4_resize_27.jpg?dl=0",
-      "name": "Android Oreo",
-      "__collections__": {}
-    },
-    {
-      "name": "Android Oreo",
-      "id": 20,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Oreo-1_resize_3.jpg?dl=0",
-      "designer": "Android",
-      "downloads": 8,
-      "heroID": "Android20",
-      "size": "4.1Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Oreo%20Earth5121010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "downloads": 4,
-      "name": "Android Oreo",
-      "size": "6.6Mb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Oreo-2_resize_16.jpg?dl=0",
-      "id": 19,
-      "heroID": "Android19",
-      "designer": "Android",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Oreo5131010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "size": "790Kb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Nougat-2_resize_71.jpg?dl=0",
-      "designer": "Android",
-      "name": "Android Nougat",
-      "heroID": "Android18",
-      "downloads": 6,
-      "id": 18,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Nougat411010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Oreo-3_resize_39.jpg?dl=0",
-      "downloads": 2,
-      "designer": "Android",
-      "heroID": "Android17",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android-7.0-Nougat-Stock-Wallpapers-1-2880-x-2560.jpg?dl=0",
-      "size": "2.6Mb",
-      "id": 17,
-      "name": "Android Oreo",
-      "__collections__": {}
-    },
-    {
-      "size": "1.1Mb",
-      "id": 16,
-      "heroID": "Android16",
-      "name": "Android Oreo",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Oreo_resize_20.jpg?dl=0",
-      "designer": "Android",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android-7.0-Nougat-Stock-Wallpapers-2-2880-x-2560.jpg?dl=0",
-      "downloads": 3,
-      "__collections__": {}
-    },
-    {
-      "downloads": 2,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Nougat-1_resize_95.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android-7.0-Nougat-Stock-Wallpapers-3-2880-x-2560.jpg?dl=0",
-      "heroID": "Android15",
-      "id": 15,
-      "size": "1.6Mb",
-      "name": "Android Nougat",
-      "designer": "Android",
-      "__collections__": {}
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android-7.0-Nougat-Stock-Wallpapers-4-2880-x-2560.jpg?dl=0",
-      "name": "Android Nougat",
-      "heroID": "Android14",
-      "size": "1.0Mb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Nougat_resize_26.jpg?dl=0",
-      "id": 14,
-      "designer": "Android",
-      "downloads": 4,
-      "__collections__": {}
-    },
-    {
-      "name": "Android Marshmallow",
-      "id": 13,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow-7_resize_68.jpg?dl=0",
-      "designer": "Android",
-      "size": "4.1Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow351010100.png?dl=0",
-      "downloads": 4,
-      "heroID": "Android13",
-      "__collections__": {}
-    },
-    {
-      "downloads": 2,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow-8_resize_28.jpg?dl=0",
-      "name": "Android Marshmallow",
-      "heroID": "Android12",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow4161010100.png?dl=0",
-      "id": 12,
-      "designer": "Android",
-      "size": "4.2Mb",
-      "__collections__": {}
-    },
-    {
-      "heroID": "Android11",
-      "size": "11.3Mb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow_resize_8.jpg?dl=0",
-      "name": "Android Marshmallow",
-      "downloads": 4,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow4141010100.png?dl=0",
-      "id": 11,
-      "designer": "Android",
-      "__collections__": {}
-    },
-    {
-      "id": 10,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow4131010100.png?dl=0",
-      "designer": "Android",
-      "downloads": 4,
-      "name": "Android Marshmallow",
-      "size": "8.5Mb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow-1_resize_33.jpg?dl=0",
-      "heroID": "Android10",
-      "__collections__": {}
-    },
-    {
-      "id": 9,
-      "name": "Android Marshmallow",
-      "heroID": "Android9",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow-9_resize_16.jpg?dl=0",
-      "designer": "Android",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow4171010100.png?dl=0",
-      "downloads": 6,
-      "size": "5.3Mb",
-      "__collections__": {}
-    },
-    {
-      "size": "4.3Mb",
-      "heroID": "Android8",
-      "downloads": 5,
-      "designer": "Android",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow4151010100.png?dl=0",
-      "id": 8,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow-4_resize_3.jpg?dl=0",
-      "name": "Android Marshmallow",
-      "__collections__": {}
-    },
-    {
-      "designer": "Android",
-      "downloads": 7,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow-10_resize_55.jpg?dl=0",
-      "heroID": "Android7",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow361010100.png?dl=0",
-      "name": "Android Marshmallow",
-      "size": "372Kb",
-      "id": 7,
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow-2_resize_67.jpg?dl=0",
-      "id": 6,
-      "name": "Android Marshmallow",
-      "size": "11Mb",
-      "downloads": 3,
-      "heroID": "Android6",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow4211010100.png?dl=0",
-      "designer": "Android",
-      "__collections__": {}
-    },
-    {
-      "size": "8.7Mb",
-      "name": "Android Marshmallow",
-      "id": 5,
-      "downloads": 5,
-      "heroID": "Android5",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow_resize_24.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow4191010100.png?dl=0",
-      "designer": "Android",
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow-5_resize_90.jpg?dl=0",
-      "id": 4,
-      "heroID": "Android4",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow4201010100.png?dl=0",
-      "size": "8.9Mb",
-      "designer": "Android",
-      "name": "Android Marshmallow",
-      "downloads": 4,
-      "__collections__": {}
-    },
-    {
-      "heroID": "Android3",
-      "downloads": 8,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow-6_resize_30.jpg?dl=0",
-      "id": 3,
-      "name": "Android Marshmallow",
-      "size": "6.3Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Marshmallow4181010100.png?dl=0",
-      "designer": "Android",
-      "__collections__": {}
-    },
-    {
-      "size": "2.7Mb",
-      "name": "Android L Lollipop",
-      "designer": "Android",
-      "downloads": 3,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20L%20Lollipop_resize_2.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20Lollipop341010100.png?dl=0",
-      "id": 2,
-      "heroID": "Android2",
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20L%20Material_resize_71.jpg?dl=0",
-      "designer": "Android",
-      "heroID": "Android1",
-      "downloads": 2,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Android/Dropbox/Android%20L%20Material331010100.png?dl=0",
-      "name": "Android L Material",
-      "id": 1,
-      "size": "275Kb",
-      "__collections__": {}
-    }
-  ],
-  "Apple": [
-    {
-      "id": 49,
-      "heroID": "Apple49",
-      "downloads": 0,
-      "name": "iPhone 13 pro max",
-      "designer": "Apple",
-      "size": "271KB",
-      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/9.png",
-      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/9-small.png"
-    },
-    {
-      "id": 48,
-      "heroID": "Apple48",
-      "downloads": 0,
-      "name": "iPhone 13 pro max",
-      "designer": "Apple",
-      "size": "564KB",
-      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/8.png",
-      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/8-small.png"
-    },
-    {
-      "id": 47,
-      "heroID": "Apple47",
-      "downloads": 0,
-      "name": "iPhone 13 pro max",
-      "designer": "Apple",
-      "size": "39KB",
-      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/7.jpg",
-      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/7-small.png"
-    },
-    {
-      "id": 46,
-      "heroID": "Apple46",
-      "downloads": 0,
-      "name": "iPhone 13 pro max",
-      "designer": "Apple",
-      "size": "48KB",
-      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/6.jpg",
-      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/6-small.png"
-    },
-    {
-      "id": 45,
-      "heroID": "Apple45",
-      "downloads": 0,
-      "name": "iPhone 13 pro max",
-      "designer": "Apple",
-      "size": "802KB",
-      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/5.png",
-      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/5-small.png"
-    },
-    {
-      "id": 44,
-      "heroID": "Apple44",
-      "downloads": 0,
-      "name": "iPhone 13 pro max",
-      "designer": "Apple",
-      "size": "835KB",
-      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/4.png",
-      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/4-small.png"
-    },
-    {
-      "id": 43,
-      "heroID": "Apple43",
-      "downloads": 0,
-      "name": "iPhone 13 pro max",
-      "designer": "Apple",
-      "size": "797KB",
-      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/3.png",
-      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/3-small.png"
-    },
-    {
-      "id": 42,
-      "heroID": "Apple42",
-      "downloads": 0,
-      "name": "iPhone 13 pro max",
-      "designer": "Apple",
-      "size": "926KB",
-      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/2.png",
-      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/2-small.png"
-    },
-    {
-      "id": 41,
-      "heroID": "Apple41",
-      "downloads": 0,
-      "name": "iPhone 13 pro max",
-      "designer": "Apple",
-      "size": "891KB",
-      "url": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/1.png",
-      "thumbUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Stocks/Sep%2017/Apple/1-small.png"
-    },
-    {
-      "size": "5.7Mb",
-      "downloads": 25,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/1_resize_45.jpg?dl=0",
-      "name": "iOS 14",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/1.png?dl=0",
-      "heroID": "Apple40",
-      "designer": "Apple",
-      "id": 40,
-      "__collections__": {}
-    },
-    {
-      "size": "5.4Mb",
-      "designer": "Apple",
-      "downloads": 22,
-      "heroID": "Apple39",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/2.png?dl=0",
-      "id": 39,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/2_resize_52.jpg?dl=0",
-      "name": "iOS 14",
-      "__collections__": {}
-    },
-    {
-      "name": "iOS 14",
-      "heroID": "Apple38",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/3.png?dl=0",
-      "downloads": 21,
-      "id": 38,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/3_resize_59.jpg?dl=0",
-      "size": "5.3",
-      "designer": "Apple",
-      "__collections__": {}
-    },
-    {
-      "name": "iOS 14",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/4.png?dl=0",
-      "downloads": 10,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/4_resize_58.jpg?dl=0",
-      "heroID": "Apple37",
-      "size": "5.7Mb",
-      "designer": "Apple",
-      "id": 37,
-      "__collections__": {}
-    },
-    {
-      "designer": "Apple",
-      "id": 36,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/5_resize_10.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/5.png?dl=0",
-      "heroID": "Apple36",
-      "size": "5.3Mb",
-      "downloads": 16,
-      "name": "iOS 14",
-      "__collections__": {}
-    },
-    {
-      "downloads": 9,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/6_resize_36.jpg?dl=0",
-      "heroID": "Apple35",
-      "designer": "Apple",
-      "name": "iOS 14",
-      "id": 35,
-      "size": "5.3Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/6.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "downloads": 18,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042421010100_resize_45.jpg?dl=0",
-      "size": "1.0Mb",
-      "name": "iPad Pro 2020",
-      "id": 34,
-      "designer": "Apple",
-      "heroID": "Apple34",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042421010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "size": "4.8Mb",
-      "name": "iPad Pro 2020",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042461010100_resize_26.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042461010100.png?dl=0",
-      "designer": "Apple",
-      "downloads": 13,
-      "id": 33,
-      "heroID": "Apple33",
-      "__collections__": {}
-    },
-    {
-      "id": 32,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042441010100.png?dl=0",
-      "heroID": "Apple32",
-      "name": "iPad Pro 2020",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042441010100_resize_24.jpg?dl=0",
-      "size": "4.6Mb",
-      "downloads": 6,
-      "designer": "Apple",
-      "__collections__": {}
-    },
-    {
-      "name": "iPad Pro 2020",
-      "downloads": 5,
-      "size": "5.3Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042431010100.png?dl=0",
-      "designer": "Apple",
-      "id": 31,
-      "heroID": "Apple31",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042431010100_resize_32.jpg?dl=0",
-      "__collections__": {}
-    },
-    {
-      "size": "5.6Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042451010100.png?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Ipad%20Pro%20202042451010100_resize_59.jpg?dl=0",
-      "downloads": 5,
-      "heroID": "Apple30",
-      "name": "iPad Pro 2020",
-      "designer": "Apple",
-      "id": 30,
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XS16601010100_resize_29.jpg?dl=0",
-      "heroID": "Apple29",
-      "downloads": 11,
-      "id": 29,
-      "designer": "Apple",
-      "size": "3.7Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XS16601010100.png?dl=0",
-      "name": "iPhone 11,11Pro",
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XS16591010100_resize_93.jpg?dl=0",
-      "downloads": 7,
-      "id": 28,
-      "heroID": "Apple28",
-      "size": "3.4Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XS16591010100.png?dl=0",
-      "designer": "Apple",
-      "name": "iPhone 11,11 Pro",
-      "__collections__": {}
-    },
-    {
-      "designer": "Apple",
-      "name": "iPhone 11,11Pro",
-      "id": 27,
-      "downloads": 3,
-      "heroID": "Apple27",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20Xs20051010100_resize_4.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20Xs20051010100.png?dl=0",
-      "size": "2.5Mb",
-      "__collections__": {}
-    },
-    {
-      "name": "iPhone XR",
-      "downloads": 6,
-      "id": 26,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16561010100_resize_8.jpg?dl=0",
-      "heroID": "Apple26",
-      "size": "1.5Mb",
-      "designer": "Apple",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16561010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "id": 25,
-      "name": "iPhone XR",
-      "heroID": "Apple25",
-      "downloads": 4,
-      "designer": "Apple",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16571010100.png?dl=0",
-      "size": "1.5Mb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16571010100_resize_47.jpg?dl=0",
-      "__collections__": {}
-    },
-    {
-      "size": "1.5Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16581010100.png?dl=0",
-      "heroID": "Apple24",
-      "designer": "Apple",
-      "id": 24,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16581010100_resize_33.jpg?dl=0",
-      "downloads": 9,
-      "name": "iPhone XR",
-      "__collections__": {}
-    },
-    {
-      "downloads": 3,
-      "size": "1.4Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16531010100.png?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16531010100_resize_57.jpg?dl=0",
-      "name": "iPhone XR",
-      "id": 23,
-      "heroID": "Apple23",
-      "designer": "Apple",
-      "__collections__": {}
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16541010100.png?dl=0",
-      "heroID": "Apple22",
-      "name": "iPhone XR",
-      "id": 22,
-      "size": "1.4Mb",
-      "designer": "Apple",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16541010100_resize_22.jpg?dl=0",
-      "downloads": 1,
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16551010100_resize_37.jpg?dl=0",
-      "downloads": 1,
-      "id": 21,
-      "size": "1.7Mb",
-      "heroID": "Apple21",
-      "designer": "Apple",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Apple%20Iphone%20XR16551010100.png?dl=0",
-      "name": "iPhone XR",
-      "__collections__": {}
-    },
-    {
-      "name": "iPhone 10",
-      "id": 20,
-      "size": "3.3Mb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20X4621010100_resize_21.jpg?dl=0",
-      "designer": "Apple",
-      "heroID": "Apple20",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20X4621010100.png?dl=0",
-      "downloads": 7,
-      "__collections__": {}
-    },
-    {
-      "id": 19,
-      "heroID": "Apple19",
-      "size": "1.3Mb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20X4631010100_resize_99.jpg?dl=0",
-      "downloads": 6,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20X4631010100.png?dl=0",
-      "designer": "Apple",
-      "name": "iPhone 10",
-      "__collections__": {}
-    },
-    {
-      "heroID": "Apple18",
-      "downloads": 6,
-      "id": 18,
-      "size": "2.1Mb",
-      "designer": "Apple",
-      "name": "iPhone 10",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102971010100.png?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102971010100_resize_69.jpg?dl=0",
-      "__collections__": {}
-    },
-    {
-      "id": 17,
-      "heroID": "Apple17",
-      "downloads": 4,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102961010100_resize_0.jpg?dl=0",
-      "size": "2.2Mb",
-      "name": "iPhone 10",
-      "designer": "Apple",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102961010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "downloads": 4,
-      "heroID": "Apple16",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102821010100_resize_16.jpg?dl=0",
-      "size": "2.1Mb",
-      "id": 16,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102821010100.png?dl=0",
-      "designer": "Apple",
-      "name": "iPhone 10",
-      "__collections__": {}
-    },
-    {
-      "designer": "Apple",
-      "downloads": 3,
-      "id": 15,
-      "heroID": "Apple15",
-      "size": "6.1Mb",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102951010100_resize_99.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20102951010100.png?dl=0",
-      "name": "iPhone 10",
-      "__collections__": {}
-    },
-    {
-      "designer": "Apple",
-      "size": "4.3Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%208%20plus2921010100.png?dl=0",
-      "name": "iPhone 8,8Plus",
-      "heroID": "Apple14",
-      "downloads": 6,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%208%20plus2921010100_resize_18.jpg?dl=0",
-      "id": 14,
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082911010100_resize_9.jpg?dl=0",
-      "heroID": "Apple13",
-      "designer": "Apple",
-      "size": "4.8Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082911010100.png?dl=0",
-      "downloads": 4,
-      "name": "iPhone 8,8Plus",
-      "id": 13,
-      "__collections__": {}
-    },
-    {
-      "size": "5.7Mb",
-      "name": "iPhone 8,8Plus",
-      "id": 12,
-      "designer": "Apple",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082931010100.png?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082931010100_resize_50.jpg?dl=0",
-      "heroID": "Apple12",
-      "downloads": 5,
-      "__collections__": {}
-    },
-    {
-      "designer": "Apple",
-      "name": "iPhone 8,8Plus",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082831010100.png?dl=0",
-      "heroID": "Apple11",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2082831010100_resize_76.jpg?dl=0",
-      "downloads": 4,
-      "id": 11,
-      "size": "5.4Mb",
-      "__collections__": {}
-    },
-    {
-      "downloads": 3,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077611010100_resize_89.jpg?dl=0",
-      "heroID": "Apple10",
-      "size": "391Kb",
-      "id": 10,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077611010100.png?dl=0",
-      "designer": "Apple",
-      "name": "iPhone 7,7Plus",
-      "__collections__": {}
-    },
-    {
-      "downloads": 1,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077601010100_resize_8.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077601010100.png?dl=0",
-      "name": "iPhone 7,7Plus",
-      "heroID": "Apple9",
-      "size": "372Kb",
-      "id": 9,
-      "designer": "Apple",
-      "__collections__": {}
-    },
-    {
-      "size": "390Kb",
-      "id": 8,
-      "heroID": "Apple8",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077591010100.png?dl=0",
-      "downloads": 1,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%2077591010100_resize_91.jpg?dl=0",
-      "designer": "Apple",
-      "name": "iPhone 7,7Plus",
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618551010100_resize_49.jpg?dl=0",
-      "heroID": "Apple7",
-      "name": "iPhone 6,6Plus",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618551010100.png?dl=0",
-      "id": 7,
-      "downloads": 3,
-      "size": "790Kb",
-      "designer": "Apple",
-      "__collections__": {}
-    },
-    {
-      "designer": "Apple",
-      "name": "iPhone 6,6Plus",
-      "id": 6,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618621010100_resize_88.jpg?dl=0",
-      "size": "2.7Mb",
-      "downloads": 7,
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618621010100.png?dl=0",
-      "heroID": "Apple6",
-      "__collections__": {}
-    },
-    {
-      "heroID": "Apple5",
-      "downloads": 4,
-      "size": "1.4Mb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618591010100.png?dl=0",
-      "name": "iPhone 6,6Plus",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618591010100_resize_96.jpg?dl=0",
-      "id": 5,
-      "designer": "Apple",
-      "__collections__": {}
-    },
-    {
-      "heroID": "Apple4",
-      "id": 4,
-      "name": "iPhone 6,6Plus",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618571010100.png?dl=0",
-      "designer": "Apple",
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618571010100_resize_41.jpg?dl=0",
-      "downloads": 2,
-      "size": "872Kb",
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618561010100_resize_70.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618561010100.png?dl=0",
-      "downloads": 4,
-      "id": 3,
-      "size": "1.0Mb",
-      "designer": "Apple",
-      "heroID": "Apple3",
-      "name": "iPhone 6,6Plus",
-      "__collections__": {}
-    },
-    {
-      "downloads": 1,
-      "size": "982Kb",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618521010100.png?dl=0",
-      "name": "iPhone 6,6Plus",
-      "id": 2,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618521010100_resize_40.jpg?dl=0",
-      "heroID": "Apple2",
-      "designer": "Apple",
-      "__collections__": {}
-    },
-    {
-      "size": "832Kb",
-      "downloads": 2,
-      "heroID": "Apple1",
-      "designer": "Apple",
-      "id": 1,
-      "thumbUrl": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618531010100_resize_10.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/Surajkrmkr/BuffyData/main/Stocks/Apple/Dropbox/Iphone%20618531010100.png?dl=0",
-      "name": "iPhone 6,6Plus",
-      "__collections__": {}
     }
   ],
   "Asus": [
@@ -13644,7 +13266,7 @@
       "__collections__": {}
     }
   ],
-  "AmoledV2": [
+  "Dark Amoled": [
     {
       "id": 141,
       "heroID": "Amoled141",
@@ -21279,7 +20901,7 @@
       "__collections__": {}
     }
   ],
-  "MinimalIllustration": [
+  "Minimal Illustration": [
     {
       "id": 29,
       "heroID": "Minimal Illustration29",
@@ -25336,7 +24958,7 @@
       "__collections__": {}
     }
   ],
-  "NightLife": [
+  "Night Life": [
     {
       "id": 5,
       "heroID": "Night Life5",
@@ -25748,7 +25370,7 @@
       "__collections__": {}
     }
   ],
-  "PiyushKPV": [
+  "AKBON": [
     {
       "size": "652.2Kb",
       "heroID": "Piyush KPV12",
@@ -27754,7 +27376,7 @@
       "__collections__": {}
     }
   ],
-  "SuperHeroes": [
+  "Super Heroes": [
     {
       "id": 73,
       "heroID": "Super Heroes73",
