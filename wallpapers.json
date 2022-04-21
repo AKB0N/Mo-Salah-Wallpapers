@@ -6630,16 +6630,6 @@
   ],
   "Google": [
     {
-      "id": 86,
-      "heroID": "Google86",
-      "downloads": 0,
-      "name": "Pixel 6",
-      "designer": "Google",
-      "size": "6.26Mb",
-      "url": "https://github.com/piyushkpv/Google/raw/main/pixel%206%20(32).png",
-      "thumbUrl": "https://github.com/piyushkpv/Google/raw/main/pixel%206%20(32)_resize_21.jpg"
-    },
-    {
       "id": 85,
       "heroID": "Google85",
       "downloads": 0,
@@ -29862,7 +29852,7 @@
       "thumbUrl": "https://github.com/Surajkrmkr/BuffyData/raw/main/Category/Suraj/Nov%2023/anger-small.png"
     }
   ],
-  "Pix": [
+  "Material You": [
     {
       "name": "G colors Light",
       "author": "Pashapuma",
