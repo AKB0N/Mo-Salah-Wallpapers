@@ -28645,24 +28645,6 @@
   ],
   "Material You": [
     {
-      "name": "G colors Light",
-      "author": "Pashapuma",
-      "url": "https://raw.githubusercontent.com/akb0n/Wallpapers_app/master/colors/google_colors_w.png",
-      "thumbUrl": "https://raw.githubusercontent.com/akb0n/Wallpapers_app/master/colors/thumbnail/google_colors_w_thumbnail.png",
-      "collections": "colors",
-      "downloadable": true,
-      "copyright": "PashaPuma Design"
-    },
-    {
-      "name": "G colors Dark",
-      "author": "Pashapuma",
-      "url": "https://raw.githubusercontent.com/akb0n/Wallpapers_app/master/colors/google_colors_d.png",
-      "thumbUrl": "https://raw.githubusercontent.com/akb0n/Wallpapers_app/master/colors/thumbnail/google_colors_d_thumbnail.png",
-      "collections": "colors",
-      "downloadable": true,
-      "copyright": "PashaPuma Design"
-    },
-    {
       "name": "Monochrome Light",
       "author": "Pashapuma",
       "url": "https://raw.githubusercontent.com/akb0n/Wallpapers_app/master/Shapes/monochrome_1.png",
@@ -28722,6 +28704,24 @@
       "url": "https://raw.githubusercontent.com/akb0n/Wallpapers_app/master/Nature/springtime_1.png",
       "thumbUrl": "https://raw.githubusercontent.com/akb0n/Wallpapers_app/master/Nature/thumbnail/springtime_1_thumbnail.png",
       "collections": "Nature",
+      "downloadable": true,
+      "copyright": "PashaPuma Design"
+    },
+    {
+      "name": "G colors Light",
+      "author": "Pashapuma",
+      "url": "https://raw.githubusercontent.com/akb0n/Wallpapers_app/master/colors/google_colors_w.png",
+      "thumbUrl": "https://raw.githubusercontent.com/akb0n/Wallpapers_app/master/colors/thumbnail/google_colors_w_thumbnail.png",
+      "collections": "colors",
+      "downloadable": true,
+      "copyright": "PashaPuma Design"
+    },
+    {
+      "name": "G colors Dark",
+      "author": "Pashapuma",
+      "url": "https://raw.githubusercontent.com/akb0n/Wallpapers_app/master/colors/google_colors_d.png",
+      "thumbUrl": "https://raw.githubusercontent.com/akb0n/Wallpapers_app/master/colors/thumbnail/google_colors_d_thumbnail.png",
+      "collections": "colors",
       "downloadable": true,
       "copyright": "PashaPuma Design"
     },
