@@ -9023,195 +9023,6 @@
       "__collections__": {}
     }
   ],
-  "Oppo": [
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/20200712_103344_resize_2.jpg?dl=0",
-      "id": 17,
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/20200712_103344.png?dl=0",
-      "name": "Find X2 Pro Lamborghini Edition",
-      "downloads": 5,
-      "size": "2.5Mb",
-      "heroID": "Oppo17",
-      "author": "Oppo",
-      "__collections__": {}
-    },
-    {
-      "id": 16,
-      "size": "1.0Mb",
-      "downloads": 10,
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/3_resize_20.jpg?dl=0",
-      "heroID": "Oppo16",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/3.jpg?dl=0",
-      "name": "OPPO Reno 4",
-      "author": "Oppo",
-      "__collections__": {}
-    },
-    {
-      "id": 15,
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/2_resize_55.jpg?dl=0",
-      "author": "Oppo",
-      "heroID": "Oppo15",
-      "name": "OPPO Reno 4",
-      "size": "1.2Mb",
-      "downloads": 2,
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/2.jpg?dl=0",
-      "__collections__": {}
-    },
-    {
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/1.jpg?dl=0",
-      "heroID": "Oppo14",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/1_resize_39.jpg?dl=0",
-      "id": 14,
-      "name": "OPPO Reno 4",
-      "author": "Oppo",
-      "downloads": 3,
-      "size": "1.6Mb",
-      "__collections__": {}
-    },
-    {
-      "author": "Oppo",
-      "heroID": "Oppo13",
-      "downloads": 6,
-      "size": "3.0Mb",
-      "id": 13,
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243211010100_resize_37.jpg?dl=0",
-      "name": "Ace 2",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243211010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "author": "Oppo",
-      "downloads": 4,
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243241010100.png?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243241010100_resize_47.jpg?dl=0",
-      "size": "2.6Mb",
-      "name": "Ace 2",
-      "heroID": "Oppo12",
-      "id": 12,
-      "__collections__": {}
-    },
-    {
-      "name": "Ace 2",
-      "size": "2.0Mb",
-      "heroID": "Oppo11",
-      "id": 11,
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243231010100.png?dl=0",
-      "downloads": 4,
-      "author": "Oppo",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243231010100_resize_69.jpg?dl=0",
-      "__collections__": {}
-    },
-    {
-      "size": "2.4Mb",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243221010100.png?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243221010100_resize_81.jpg?dl=0",
-      "name": "Ace 2",
-      "id": 10,
-      "author": "Oppo",
-      "downloads": 3,
-      "heroID": "Oppo10",
-      "__collections__": {}
-    },
-    {
-      "downloads": 15,
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro42001010100.png?dl=0",
-      "heroID": "Oppo9",
-      "id": 9,
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro42001010100_resize_26.jpg?dl=0",
-      "name": "Find X2 Pro",
-      "author": "Oppo",
-      "size": "4.3Mb",
-      "__collections__": {}
-    },
-    {
-      "downloads": 10,
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro42011010100_resize_21.jpg?dl=0",
-      "name": "Find X2 Pro",
-      "author": "Oppo",
-      "id": 8,
-      "heroID": "Oppo8",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro42011010100.png?dl=0",
-      "size": "7.2Mb",
-      "__collections__": {}
-    },
-    {
-      "downloads": 15,
-      "author": "Oppo",
-      "heroID": "Oppo7",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41981010100_resize_48.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41981010100.png?dl=0",
-      "name": "Find X2 Pro",
-      "size": "7.3Mb",
-      "id": 7,
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41991010100_resize_38.jpg?dl=0",
-      "size": "10.4Mb",
-      "name": "Find X2 Pro",
-      "downloads": 3,
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41991010100.png?dl=0",
-      "id": 6,
-      "author": "Oppo",
-      "heroID": "Oppo6",
-      "__collections__": {}
-    },
-    {
-      "id": 5,
-      "downloads": 6,
-      "size": "5.3Mb",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41971010100_resize_64.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41971010100.png?dl=0",
-      "name": "Find X2 Pro",
-      "author": "Oppo",
-      "heroID": "Oppo5",
-      "__collections__": {}
-    },
-    {
-      "author": "Oppo",
-      "id": 4,
-      "size": "3.3Mb",
-      "heroID": "Oppo4",
-      "name": "Reno 3 Pro",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38541010100_resize_6.jpg?dl=0",
-      "downloads": 6,
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38541010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38571010100_resize_55.jpg?dl=0",
-      "downloads": 12,
-      "name": "Reno 3 Pro",
-      "heroID": "Oppo3",
-      "author": "Oppo",
-      "size": "3.3Mb",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38571010100.png?dl=0",
-      "id": 3,
-      "__collections__": {}
-    },
-    {
-      "name": "Reno 3 Pro",
-      "id": 2,
-      "size": "3.9Mb",
-      "heroID": "Oppo2",
-      "author": "Oppo",
-      "downloads": 6,
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38561010100_resize_25.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38561010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38551010100.png?dl=0",
-      "name": "Reno 3 Pro",
-      "author": "Oppo",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38551010100_resize_99.jpg?dl=0",
-      "id": 1,
-      "downloads": 6,
-      "heroID": "Oppo1",
-      "size": "3.1Mb",
-      "__collections__": {}
-    }
-  ],
   "Realme": [
     {
       "id": 21,
@@ -9433,6 +9244,193 @@
       "heroID": "Realme1",
       "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Realme/Dropbox/Realme%205%20Pro32051010100_resize_14.jpg?dl=0",
       "id": 1,
+      "__collections__": {}
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/20200712_103344_resize_2.jpg?dl=0",
+      "id": 17,
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/20200712_103344.png?dl=0",
+      "name": "Find X2 Pro Lamborghini Edition",
+      "downloads": 5,
+      "size": "2.5Mb",
+      "heroID": "Oppo17",
+      "author": "Oppo",
+      "__collections__": {}
+    },
+    {
+      "id": 16,
+      "size": "1.0Mb",
+      "downloads": 10,
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/3_resize_20.jpg?dl=0",
+      "heroID": "Oppo16",
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/3.jpg?dl=0",
+      "name": "OPPO Reno 4",
+      "author": "Oppo",
+      "__collections__": {}
+    },
+    {
+      "id": 15,
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/2_resize_55.jpg?dl=0",
+      "author": "Oppo",
+      "heroID": "Oppo15",
+      "name": "OPPO Reno 4",
+      "size": "1.2Mb",
+      "downloads": 2,
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/2.jpg?dl=0",
+      "__collections__": {}
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/1.jpg?dl=0",
+      "heroID": "Oppo14",
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/1_resize_39.jpg?dl=0",
+      "id": 14,
+      "name": "OPPO Reno 4",
+      "author": "Oppo",
+      "downloads": 3,
+      "size": "1.6Mb",
+      "__collections__": {}
+    },
+    {
+      "author": "Oppo",
+      "heroID": "Oppo13",
+      "downloads": 6,
+      "size": "3.0Mb",
+      "id": 13,
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243211010100_resize_37.jpg?dl=0",
+      "name": "Ace 2",
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243211010100.png?dl=0",
+      "__collections__": {}
+    },
+    {
+      "author": "Oppo",
+      "downloads": 4,
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243241010100.png?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243241010100_resize_47.jpg?dl=0",
+      "size": "2.6Mb",
+      "name": "Ace 2",
+      "heroID": "Oppo12",
+      "id": 12,
+      "__collections__": {}
+    },
+    {
+      "name": "Ace 2",
+      "size": "2.0Mb",
+      "heroID": "Oppo11",
+      "id": 11,
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243231010100.png?dl=0",
+      "downloads": 4,
+      "author": "Oppo",
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243231010100_resize_69.jpg?dl=0",
+      "__collections__": {}
+    },
+    {
+      "size": "2.4Mb",
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243221010100.png?dl=0",
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Ace%20243221010100_resize_81.jpg?dl=0",
+      "name": "Ace 2",
+      "id": 10,
+      "author": "Oppo",
+      "downloads": 3,
+      "heroID": "Oppo10",
+      "__collections__": {}
+    },
+    {
+      "downloads": 15,
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro42001010100.png?dl=0",
+      "heroID": "Oppo9",
+      "id": 9,
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro42001010100_resize_26.jpg?dl=0",
+      "name": "Find X2 Pro",
+      "author": "Oppo",
+      "size": "4.3Mb",
+      "__collections__": {}
+    },
+    {
+      "downloads": 10,
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro42011010100_resize_21.jpg?dl=0",
+      "name": "Find X2 Pro",
+      "author": "Oppo",
+      "id": 8,
+      "heroID": "Oppo8",
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro42011010100.png?dl=0",
+      "size": "7.2Mb",
+      "__collections__": {}
+    },
+    {
+      "downloads": 15,
+      "author": "Oppo",
+      "heroID": "Oppo7",
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41981010100_resize_48.jpg?dl=0",
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41981010100.png?dl=0",
+      "name": "Find X2 Pro",
+      "size": "7.3Mb",
+      "id": 7,
+      "__collections__": {}
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41991010100_resize_38.jpg?dl=0",
+      "size": "10.4Mb",
+      "name": "Find X2 Pro",
+      "downloads": 3,
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41991010100.png?dl=0",
+      "id": 6,
+      "author": "Oppo",
+      "heroID": "Oppo6",
+      "__collections__": {}
+    },
+    {
+      "id": 5,
+      "downloads": 6,
+      "size": "5.3Mb",
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41971010100_resize_64.jpg?dl=0",
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Find%20X2%20Pro41971010100.png?dl=0",
+      "name": "Find X2 Pro",
+      "author": "Oppo",
+      "heroID": "Oppo5",
+      "__collections__": {}
+    },
+    {
+      "author": "Oppo",
+      "id": 4,
+      "size": "3.3Mb",
+      "heroID": "Oppo4",
+      "name": "Reno 3 Pro",
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38541010100_resize_6.jpg?dl=0",
+      "downloads": 6,
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38541010100.png?dl=0",
+      "__collections__": {}
+    },
+    {
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38571010100_resize_55.jpg?dl=0",
+      "downloads": 12,
+      "name": "Reno 3 Pro",
+      "heroID": "Oppo3",
+      "author": "Oppo",
+      "size": "3.3Mb",
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38571010100.png?dl=0",
+      "id": 3,
+      "__collections__": {}
+    },
+    {
+      "name": "Reno 3 Pro",
+      "id": 2,
+      "size": "3.9Mb",
+      "heroID": "Oppo2",
+      "author": "Oppo",
+      "downloads": 6,
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38561010100_resize_25.jpg?dl=0",
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38561010100.png?dl=0",
+      "__collections__": {}
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38551010100.png?dl=0",
+      "name": "Reno 3 Pro",
+      "author": "Oppo",
+      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Oppo/Dropbox/OPPO%20Reno%203%20Pro38551010100_resize_99.jpg?dl=0",
+      "id": 1,
+      "downloads": 6,
+      "heroID": "Oppo1",
+      "size": "3.1Mb",
       "__collections__": {}
     }
   ],
@@ -14196,7 +14194,6 @@
       "name": "Amoled 36",
       "__collections__": {}
     },
-
     {
       "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Amoled/Dropbox/Amoled%2034_resize_86.jpg?dl=0",
       "size": "649.5Kb",
@@ -22355,7 +22352,6 @@
       "name": "Angry Bird",
       "__collections__": {}
     },
-
     {
       "id": 2,
       "heroID": "Minimal2",
