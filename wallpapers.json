@@ -9248,6 +9248,111 @@
   ],
   "Realme": [
     {
+      "name": "1",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_01.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_01.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "2",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_02.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_02.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "3",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_03.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_03.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "4",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_04.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_04.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "5",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_05.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_05.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "6",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_06.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_06.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "7",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_07.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_07.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "8",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_08.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_08.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "9",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_09.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_09.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "10",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_10.png",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_10.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "11",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_11.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_11.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "12",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_12.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_12.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "13",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_13.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_13.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "14",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_14.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_14.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "15",
+      "author": "OPPO",
+      "url": "https://akbon.imgix.net/realmeui/Wallpaper_15.jpg",
+      "thumbUrl": "https://akbon.imgix.net/realmeui/Wallpaper_15.jpg?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
       "id": 21,
       "heroID": "Realme21",
       "downloads": 0,
