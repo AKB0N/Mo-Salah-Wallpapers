@@ -8977,50 +8977,6 @@
       "id": 5,
       "heroID": "OnePlus5",
       "__collections__": {}
-    },
-    {
-      "author": "OPPO",
-      "name": "OnePlus 8 Pro",
-      "size": "1.5Mb",
-      "heroID": "OnePlus4",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/OnePlus/Dropbox/OP8_1_ns_resize_90.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/OnePlus/Dropbox/OP8_1_ns.jpg?dl=0",
-      "downloads": 5,
-      "id": 4,
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/OnePlus/Dropbox/OnePlus%208%20Pro42981010100_resize_62.jpg?dl=0",
-      "size": "1.8Mb",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/OnePlus/Dropbox/OP8_2_ns.jpg?dl=0",
-      "name": "OnePlus 8 Pro",
-      "downloads": 0,
-      "id": 3,
-      "heroID": "OnePlus3",
-      "author": "OPPO",
-      "__collections__": {}
-    },
-    {
-      "heroID": "OnePlus2",
-      "author": "OPPO",
-      "downloads": 1,
-      "size": "2.0Mb",
-      "name": "OnePlus 8 Pro",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/OnePlus/Dropbox/OP8_3_ns.jpg?dl=0",
-      "id": 2,
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/OnePlus/Dropbox/OnePlus%208%20Pro43021010100_resize_13.jpg?dl=0",
-      "__collections__": {}
-    },
-    {
-      "author": "OPPO",
-      "size": "1.8Mb",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/OnePlus/Dropbox/OnePlus%208%20Pro42961010100_resize_74.jpg?dl=0",
-      "downloads": 0,
-      "name": "OnePlus 8 Pro",
-      "heroID": "Oneplus1",
-      "id": 1,
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/OnePlus/Dropbox/OP8_4_ns.jpg?dl=0",
-      "__collections__": {}
     }
   ],
   "ColorOS": [
