@@ -7505,6 +7505,734 @@
       "thumbUrl": "https://raw.githubusercontent.com/AKB0N/MIUI/main/MIUI%2011%20(1)_resize_74.jpg"
     }
   ],
+  "HyperOS": [
+    {
+      "name": "1",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/1.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/1.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "2",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/2.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/2.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "3",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/3.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/3.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "4",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/4.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/4.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "5",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/5.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/5.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "6",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/6.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/6.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "7",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/7.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/7.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "8",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/8.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/8.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "9",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/9.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/9.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "10",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/10.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/10.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "11",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/11.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/11.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "12",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/12.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/12.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "13",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/13.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/13.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "14",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/14.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/14.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "15",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/15.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/15.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "16",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/16.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/16.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "17",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/17.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/17.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "18",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/18.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/18.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "19",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/19.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/19.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "20",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/20.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/20.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "21",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/21.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/21.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "22",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/22.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/22.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "23",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/23.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/23.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "24",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/24.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/24.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "25",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/25.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/25.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "26",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/26.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/26.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "27",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/27.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/27.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "28",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/28.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/28.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "29",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/29.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/29.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "30",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/30.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/30.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "31",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/31.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/31.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "32",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/32.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/32.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "33",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/33.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/33.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "34",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/34.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/34.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "35",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/35.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/35.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "36",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/36.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/36.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "37",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/37.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/37.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "38",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/38.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/38.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "39",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/39.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/39.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "40",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/40.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/40.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "41",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/41.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/41.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "42",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/42.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/42.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "43",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/43.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/43.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "45",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/45.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/45.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "46",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/46.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/46.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "47",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/47.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/47.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "48",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/48.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/48.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "49",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/49.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/49.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "50",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/50.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/50.png?ixlib=rb-1.2.1&q=80&w=200"
+    },
+    {
+      "name": "51",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/51.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/51.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "52",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/52.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/52.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "53",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/53.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/53.png?ixlib=rb-1.2.1&q=80&w=200"
+    },
+    {
+      "name": "54",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/54.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/54.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "55",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/55.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/55.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "56",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/56.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/56.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "57",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/57.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/57.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "58",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/58.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/58.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "59",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/59.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/59.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "60",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/60.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/60.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "61",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/61.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/61.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "62",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/62.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/62.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "63",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/63.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/63.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "64",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/64.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/64.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "65",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/65.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/65.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "66",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/66.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/66.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "67",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/67.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/67.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "68",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/68.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/68.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "69",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/69.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/69.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "70",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/70.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/70.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "71",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/71.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/71.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "72",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/72.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/72.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "73",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/73.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/73.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "74",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/74.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/74.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "75",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/75.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/75.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "76",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/76.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/76.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "77",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/77.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/77.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "78",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/78.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/78.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "79",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/79.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/79.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "80",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/80.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/80.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "81",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/81.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/81.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "82",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/82.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/82.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "83",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/83.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/83.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "84",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/84.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/84.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "85",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/85.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/85.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "86",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/86.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/86.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "87",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/87.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/87.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "88",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/88.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/88.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "89",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/89.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/89.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "90",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/90.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/90.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "91",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/91.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/91.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "92",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/92.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/92.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "93",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/93.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/93.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "94",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/94.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/94.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "95",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/95.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/95.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "96",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/96.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/96.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "97",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/97.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/97.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "98",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/98.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/98.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "99",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/99.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/99.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "100",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/100.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/100.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "101",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/101.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/101.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "102",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/102.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/102.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "103",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/103.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/103.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "104",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/104.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/104.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    },
+    {
+      "name": "105",
+      "author": "Xiaomi",
+      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/miui/105.png",
+      "thumbUrl": "https://akb0n.imgix.net/miui/105.png?ixlib=rb-1.2.1&q=80&w=200",
+      "downloadable": true
+    }
+  ],
   "Pixel": [
     {
       "name": "Flowers as Pixel 6",
