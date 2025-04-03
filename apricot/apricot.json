@@ -1,82 +1,83 @@
-[
-    {
-      "author": "AKB0N",
-      "downloadCount": 0,
-      "name": "1",
-      "thumbUrl": "https://akbon.imgix.net/apricot/1.png?ixlib=rb-1.2.1&q=80&w=200",
-      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/1.png",
-      "viewCount": 0
-    },
-    {
-      "author": "AKB0N",
-      "downloadCount": 0,
-      "name": "2",
-      "thumbUrl": "https://akbon.imgix.net/apricot/2.png?ixlib=rb-1.2.1&q=80&w=200",
-      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/2.png",
-      "viewCount": 0
-    },
-    {
-      "author": "AKB0N",
-      "downloadCount": 0,
-      "name": "3",
-      "thumbUrl": "https://akbon.imgix.net/apricot/3.png?ixlib=rb-1.2.1&q=80&w=200",
-      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/3.png",
-      "viewCount": 0
-    },
-    {
-      "author": "AKB0N",
-      "downloadCount": 0,
-      "name": "4",
-      "thumbUrl": "https://akbon.imgix.net/apricot/4.png?ixlib=rb-1.2.1&q=80&w=200",
-      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/4.png",
-      "viewCount": 0
-    },
-    {
-      "author": "AKB0N",
-      "downloadCount": 0,
-      "name": "5",
-      "thumbUrl": "https://akbon.imgix.net/apricot/5.png?ixlib=rb-1.2.1&q=80&w=200",
-      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/5.png",
-      "viewCount": 0
-    },
-    {
-      "author": "AKB0N",
-      "downloadCount": 0,
-      "name": "6",
-      "thumbUrl": "https://akbon.imgix.net/apricot/6.png?ixlib=rb-1.2.1&q=80&w=200",
-      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/6.png",
-      "viewCount": 0
-    },
-    {
-      "author": "AKB0N",
-      "downloadCount": 0,
-      "name": "7",
-      "thumbUrl": "https://akbon.imgix.net/apricot/7.png?ixlib=rb-1.2.1&q=80&w=200",
-      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/7.png",
-      "viewCount": 0
-    },
-    {
-      "author": "AKB0N",
-      "downloadCount": 0,
-      "name": "8",
-      "thumbUrl": "https://akbon.imgix.net/apricot/8.png?ixlib=rb-1.2.1&q=80&w=200",
-      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/8.png",
-      "viewCount": 0
-    },
-    {
-      "author": "AKB0N",
-      "downloadCount": 0,
-      "name": "9",
-      "thumbUrl": "https://akbon.imgix.net/apricot/9.png?ixlib=rb-1.2.1&q=80&w=200",
-      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/9.png",
-      "viewCount": 0
-    },
-    {
-      "author": "AKB0N",
-      "downloadCount": 0,
-      "name": "10",
-      "thumbUrl": "https://akbon.imgix.net/apricot/10.png?ixlib=rb-1.2.1&q=80&w=200",
-      "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/10.png",
-      "viewCount": 0
-    }
-  ]
+{  "Apricot": [
+  {
+    "author": "AKB0N",
+    "downloadCount": 0,
+    "name": "1",
+    "thumbUrl": "https://akbon.imgix.net/apricot/1.png?ixlib=rb-1.2.1&q=80&w=200",
+    "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/1.png",
+    "viewCount": 0
+  },
+  {
+    "author": "AKB0N",
+    "downloadCount": 0,
+    "name": "2",
+    "thumbUrl": "https://akbon.imgix.net/apricot/2.png?ixlib=rb-1.2.1&q=80&w=200",
+    "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/2.png",
+    "viewCount": 0
+  },
+  {
+    "author": "AKB0N",
+    "downloadCount": 0,
+    "name": "3",
+    "thumbUrl": "https://akbon.imgix.net/apricot/3.png?ixlib=rb-1.2.1&q=80&w=200",
+    "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/3.png",
+    "viewCount": 0
+  },
+  {
+    "author": "AKB0N",
+    "downloadCount": 0,
+    "name": "4",
+    "thumbUrl": "https://akbon.imgix.net/apricot/4.png?ixlib=rb-1.2.1&q=80&w=200",
+    "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/4.png",
+    "viewCount": 0
+  },
+  {
+    "author": "AKB0N",
+    "downloadCount": 0,
+    "name": "5",
+    "thumbUrl": "https://akbon.imgix.net/apricot/5.png?ixlib=rb-1.2.1&q=80&w=200",
+    "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/5.png",
+    "viewCount": 0
+  },
+  {
+    "author": "AKB0N",
+    "downloadCount": 0,
+    "name": "6",
+    "thumbUrl": "https://akbon.imgix.net/apricot/6.png?ixlib=rb-1.2.1&q=80&w=200",
+    "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/6.png",
+    "viewCount": 0
+  },
+  {
+    "author": "AKB0N",
+    "downloadCount": 0,
+    "name": "7",
+    "thumbUrl": "https://akbon.imgix.net/apricot/7.png?ixlib=rb-1.2.1&q=80&w=200",
+    "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/7.png",
+    "viewCount": 0
+  },
+  {
+    "author": "AKB0N",
+    "downloadCount": 0,
+    "name": "8",
+    "thumbUrl": "https://akbon.imgix.net/apricot/8.png?ixlib=rb-1.2.1&q=80&w=200",
+    "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/8.png",
+    "viewCount": 0
+  },
+  {
+    "author": "AKB0N",
+    "downloadCount": 0,
+    "name": "9",
+    "thumbUrl": "https://akbon.imgix.net/apricot/9.png?ixlib=rb-1.2.1&q=80&w=200",
+    "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/9.png",
+    "viewCount": 0
+  },
+  {
+    "author": "AKB0N",
+    "downloadCount": 0,
+    "name": "10",
+    "thumbUrl": "https://akbon.imgix.net/apricot/10.png?ixlib=rb-1.2.1&q=80&w=200",
+    "url": "https://raw.githubusercontent.com/akb0n/Mo-Salah-Wallpapers/master/apricot/10.png",
+    "viewCount": 0
+  }
+]
+}
