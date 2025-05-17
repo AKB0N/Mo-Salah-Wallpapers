@@ -9049,17 +9049,6 @@
       "__collections__": {}
     },
     {
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Asus/Dropbox/20200603_095631_resize_57.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Asus/Dropbox/20200603_095631.jpg?dl=0",
-      "downloads": 4,
-      "id": 55,
-      "author": "Asus-Devs",
-      "heroID": "Asus55",
-      "name": "ASUS ROG Phone 2",
-      "size": "1.6Mb",
-      "__collections__": {}
-    },
-    {
       "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Asus/Dropbox/20200603_095643_resize_70.jpg?dl=0",
       "name": "ASUS ROG Phone 2",
       "author": "Asus-Devs",
@@ -9101,17 +9090,6 @@
       "name": "ASUS ROG Phone 2",
       "heroID": "Asus51",
       "id": 51,
-      "__collections__": {}
-    },
-    {
-      "id": 50,
-      "size": "900Kb",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Asus/Dropbox/20200603_095735.jpg?dl=0",
-      "name": "ASUS ROG Phone 2",
-      "heroID": "Asus50",
-      "author": "Asus-Devs",
-      "downloads": 0,
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/Asus/Dropbox/20200603_095735_resize_78.jpg?dl=0",
       "__collections__": {}
     },
     {
@@ -13791,17 +13769,6 @@
       "__collections__": {}
     },
     {
-      "downloads": 5,
-      "id": 17,
-      "heroID": "ZTE17",
-      "size": "1.4Mb",
-      "name": "Red Magic 3",
-      "author": "ZTE",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Red%20Magic%203_resize_71.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/ZTE%20Red%20Magic%20326411010100.png?dl=0",
-      "__collections__": {}
-    },
-    {
       "downloads": 4,
       "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/ZTE%20Red%20Magic%20326361010100.png?dl=0",
       "name": "Red Magic 3",
@@ -13810,28 +13777,6 @@
       "heroID": "ZTE16",
       "size": "427.4Kb",
       "id": 16,
-      "__collections__": {}
-    },
-    {
-      "downloads": 3,
-      "id": 15,
-      "size": "960Kb",
-      "name": "Red Magic 3",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Red%20Magic%203-1_resize_32.jpg?dl=0",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/ZTE%20Red%20Magic%20326401010100.png?dl=0",
-      "author": "ZTE",
-      "heroID": "ZTE15",
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Red%20Magic%203-2_resize_6.jpg?dl=0",
-      "heroID": "ZTE14",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/ZTE%20Red%20Magic%20326391010100.png?dl=0",
-      "id": 14,
-      "size": "1.2Mb",
-      "downloads": 2,
-      "author": "ZTE",
-      "name": "Red Magic 3",
       "__collections__": {}
     },
     {
@@ -13865,39 +13810,6 @@
       "author": "ZTE",
       "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/2_resize_28.jpg?dl=0",
       "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/2.jpg?dl=0",
-      "__collections__": {}
-    },
-    {
-      "downloads": 0,
-      "size": "2.0Mb",
-      "heroID": "ZTE10",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Redmagic%205G_Wallpaper%2005.png?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Red%20Magic%205G-1_resize_91.jpg?dl=0",
-      "name": "Red Magic 5G",
-      "author": "ZTE",
-      "id": 10,
-      "__collections__": {}
-    },
-    {
-      "id": 9,
-      "author": "ZTE",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Redmagic%205G_Wallpaper%2004.png?dl=0",
-      "downloads": 2,
-      "size": "2.5Mb",
-      "heroID": "ZTE9",
-      "name": "Red Magic 5G",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Red%20Magic%205G_resize_87.jpg?dl=0",
-      "__collections__": {}
-    },
-    {
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Red%20Magic%205G-2_resize_62.jpg?dl=0",
-      "heroID": "ZTE8",
-      "author": "ZTE",
-      "name": "Red Magic 5G",
-      "id": 8,
-      "size": "2.1Mb",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Redmagic%205G_Wallpaper%2003.png?dl=0",
-      "downloads": 0,
       "__collections__": {}
     },
     {
