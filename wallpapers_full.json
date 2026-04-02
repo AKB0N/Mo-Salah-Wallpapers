@@ -13846,28 +13846,6 @@
       "__collections__": {}
     },
     {
-      "downloads": 5,
-      "author": "ZTE",
-      "name": "Nubia Play 5G",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Nubia%20Play%205G_resize_1.jpg?dl=0",
-      "heroID": "ZTE4",
-      "id": 4,
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/01.png?dl=0",
-      "size": "2.4Mb",
-      "__collections__": {}
-    },
-    {
-      "id": 3,
-      "heroID": "ZTE3",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Nubia%20Play%205G-1_resize_4.jpg?dl=0",
-      "downloads": 5,
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/02.png?dl=0",
-      "size": "1.2Mb",
-      "name": "Nubia Play 5G",
-      "author": "ZTE",
-      "__collections__": {}
-    },
-    {
       "size": "3.7Mb",
       "id": 2,
       "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Stocks/ZTE/Dropbox/Nubia%20Play%205G-2_resize_40.jpg?dl=0",
@@ -16276,17 +16254,6 @@
       "__collections__": {}
     },
     {
-      "size": "1.5Mb",
-      "heroID": "Amoled36",
-      "downloads": 22,
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Amoled/Dropbox/G08.png?dl=0",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Amoled/Dropbox/Amoled%2036_resize_62.jpg?dl=0",
-      "author": "Amoled",
-      "id": 36,
-      "name": "Amoled 36",
-      "__collections__": {}
-    },
-    {
       "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Amoled/Dropbox/Amoled%2034_resize_86.jpg?dl=0",
       "size": "649.5Kb",
       "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Amoled/Dropbox/G06.png?dl=0",
@@ -17421,17 +17388,6 @@
       "author": "Anime",
       "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Anime/Dropbox/U1579809481_resize_33.jpg?dl=0",
       "size": "735KB",
-      "__collections__": {}
-    },
-    {
-      "id": 11,
-      "size": "1.3MB",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Anime/Dropbox/U1579931773_resize_19.jpg?dl=0",
-      "downloads": 9,
-      "author": "Anime",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Anime/Dropbox/U1579931773.jpg?dl=0",
-      "name": "Anime 11",
-      "heroID": "Anime11",
       "__collections__": {}
     },
     {
@@ -25839,17 +25795,6 @@
       "__collections__": {}
     },
     {
-      "id": 43,
-      "downloads": 11,
-      "author": "Nature",
-      "thumbUrl": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Nature/Dropbox/Natural%2043_resize_80.jpg?dl=0",
-      "size": "2.4Mb",
-      "name": "Natural 43",
-      "heroID": "Nature43",
-      "url": "https://raw.githubusercontent.com/AKB0N/BuffyData/main/Category/Nature/Dropbox/orsrc53493.jpg?dl=0",
-      "__collections__": {}
-    },
-    {
       "name": "Natural 42",
       "author": "Nature",
       "downloads": 14,
@@ -26345,17 +26290,7 @@
       "heroID": "Night Life3",
       "__collections__": {}
     },
-    {
-      "author": "BuffyWalls",
-      "thumbUrl": "https://dl.dropboxusercontent.com/s/j3ypvar8ufidhhq/IMG_20210101_142641_406_resize_15.jpg?dl=0",
-      "id": 2,
-      "name": "Night Camp 3",
-      "heroID": "Night Life2",
-      "downloads": 3,
-      "size": "346.1Kb",
-      "url": "https://dl.dropboxusercontent.com/s/pld66kdfqtji5p9/IMG_20210101_142641_406.jpg?dl=0",
-      "__collections__": {}
-    },
+
     {
       "name": "Night Camp 4",
       "heroID": "Night Life1",
